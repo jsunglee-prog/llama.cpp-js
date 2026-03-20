@@ -1,0 +1,6 @@
+# build output
+android*
+hexagon*
+
+
+.git_backup/
